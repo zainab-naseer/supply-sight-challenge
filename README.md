@@ -8,7 +8,7 @@
 
 ### Frontend
 ```bash
-cd frontend
+cd supply-sight-front-end
 npm install
 npm run dev
 ```
